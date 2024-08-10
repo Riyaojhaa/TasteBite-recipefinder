@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
+
+* {
+    margin:0 ;
+    padding:0;
+    box-sizing: border-box;
+}
+.joke-inner-container {
+    padding:15px;
+    background-color:rgb(163, 157, 157); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    
+}
+
+.foodjokeheading {
+    color:black;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.foodjokepara {
+    color:white;
+    font-weight:100px;
+    font-size:16px;
+    font-family: "Montserrat Alternates", sans-serif;
+}
